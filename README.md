@@ -1,1 +1,2 @@
 # Strings
+2algo
